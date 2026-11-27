@@ -1,7 +1,5 @@
 # QuickBite — Common Foundation
 
-This ZIP contains the shared starter foundation for the three developers.
-
 ## Included
 - ASP.NET Core Web API project targeting .NET 8
 - Six shared EF Core entities
